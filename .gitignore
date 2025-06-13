@@ -1,0 +1,19 @@
+# Google Apps Script development
+# Ignore dependencies installed by clasp
+node_modules/
+
+# Ignore clasp project settings
+.clasp.json
+
+# MacOS and Windows temporary files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary directories
+*.log
+tmp/
+TEMP/
+
+# IDE settings
+.vscode/
+
